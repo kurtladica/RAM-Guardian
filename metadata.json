@@ -1,0 +1,6 @@
+{
+  "name": "RAM Guardian",
+  "description": "No-root Android RAM monitoring and app-management utility.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

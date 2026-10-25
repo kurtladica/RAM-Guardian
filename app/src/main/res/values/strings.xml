@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RAM Guardian</string>
+    <string name="accessibility_service_label">RAM Guardian Force-Stop Assistant</string>
+    <string name="accessibility_service_description">Assists with user-initiated batch force-stop operations by locating and activating native Force stop controls in Android Settings. Operates exclusively when explicitly started by the user.</string>
+</resources>
